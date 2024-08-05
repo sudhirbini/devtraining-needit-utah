@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>8</height>
+        <image/>
+        <name>image002.png</name>
+        <size_bytes>211</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 20:59:46</sys_created_on>
+        <sys_id>5aed15d6c3b70210ab3e1173e4013107</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>image002.png</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_5aed15d6c3b70210ab3e1173e4013107</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 20:59:46</sys_updated_on>
+        <thumbnail/>
+        <width>5</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#3a5f</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>35a808c27b7fc6a7501dc019ac7590f99f957a1e2c1701d64f752cf8fffef6f3</hash>
+        <image_height>8</image_height>
+        <image_width>5</image_width>
+        <size_bytes>211</size_bytes>
+        <size_compressed>218</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 20:59:46</sys_created_on>
+        <sys_id>deed15d6c3b70210ab3e1173e401310a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 20:59:46</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>5aed15d6c3b70210ab3e1173e4013107</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="deed15d6c3b70210ab3e1173e401310a">deed15d6c3b70210ab3e1173e401310a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 20:59:46</sys_created_on>
+        <sys_id>12ed15d6c3b70210ab3e1173e401310b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSrEDMwcEGJA0/mloDKcbiIHcnhnXnZF4COSzpjr6ODAwb+7n/JIJUchZ4RBYzMPAdAWHGqdp80kDBDE8XxxCJ8OSEDT21xxJEq0U8zrddOi/R0DOTJ6zwFM+zjbMSpI6kb+jJTHRgS9gXmsM+hZsxYV9qjjaEjtFvzuYxb/ZdpDGD7aPkmqR7DB8tFeZxL73fcObHgYS5H+QzDvIa5Ir+ZmQQ2qIqvZ2LYQPQTgZPVz+XdU4JTQDW4fYx0wAAAA==</data>
+        <length>280</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="deed15d6c3b70210ab3e1173e401310a">deed15d6c3b70210ab3e1173e401310a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 20:59:46</sys_created_on>
+        <sys_id>92ed15d6c3b70210ab3e1173e401310b</sys_id>
+    </sys_attachment_doc>
+</record_update>
